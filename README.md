@@ -10,7 +10,7 @@ Repositório da matéria de Visão e Processamento de Imagens - USP - 2021-1
 
 ## Links Importantes:
 
-- Link para o notebook no Google Colab: https://github.com/Giganoide01/MAC5768_EPs
+- Link para o notebook no Google Colab: https://colab.research.google.com/drive/15zsFuqjrjg46MjU7dnI0LvtgE9ji8jzm
 - Link para a pasta do Google Drive: https://drive.google.com/drive/u/0/folders/1WEzT7nZTrtw9EBntSM8hCzoGQyDAQUIw
 
 ## EP01 - Descrição
