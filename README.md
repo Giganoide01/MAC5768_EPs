@@ -32,7 +32,7 @@ O Exercício Programa 2.1 consiste em:
   - Filtro da média implementado usando convolução;
 - Salvar essas alterações em pastas no drive.
 
-### EP02.2: Data Augmentation
+### EP02.2: Normalização e análise da variação das classes
 O Exercício Programa 2.2 consiste em:
 - Criar um JN que realize a normalização das imagens de cada classe do dataset de augmentation;
 - Usar a equalização de histogramas como função inicial de normalização, gerando um normalizedDataset;
