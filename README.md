@@ -25,7 +25,7 @@ O Exercício Programa 1 consiste em:
 O Exercício Programa 2.1 consiste em:
 - Criar um JN contendo funções para fazer data augmentation do dataset do EP1;
 - Criar 5 funções de data augmentation. Cada função será aplicada a cada imagem do dataset do EP1, sendo estas funções:
-  - RGB2gray (ie converter as imagens RGB originais em níveis de cinza);
+  - RGB2gray (converter as imagens RGB originais em níveis de cinza);
   - Soma de fundo com gradiente de níveis de cinza;
   - Logaritmo da imagem;
   - Exponencial da imagem;
