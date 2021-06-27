@@ -10,7 +10,9 @@ Repositório da matéria de Visão e Processamento de Imagens - USP - 2021-1
 
 ## Links Importantes:
 
-- Link para o notebook no Google Colab: https://colab.research.google.com/drive/15zsFuqjrjg46MjU7dnI0LvtgE9ji8jzm
+- Link para o notebook no Google Colab do EP1: https://colab.research.google.com/drive/15zsFuqjrjg46MjU7dnI0LvtgE9ji8jzm
+- Link para o notebook no Google Colab do EP2.1: https://colab.research.google.com/drive/1h6i3BKGLtBKLcju-Sy6PT2kUJ5kvKbRv
+- Link para o notebook no Google Colab do EP2.2: https://colab.research.google.com/drive/11gNBb9oQxITN8QViUZ0b7m5CgpaJc4bv#scrollTo=Xf133sTKPpGw
 - Link para a pasta do Google Drive: https://drive.google.com/drive/u/0/folders/1WEzT7nZTrtw9EBntSM8hCzoGQyDAQUIw
 
 ## EP01 - Descrição
