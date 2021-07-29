@@ -44,15 +44,15 @@ O Exercício Programa 2.2 consiste em:
 
 ## EP03 - Descrição
 ### EP03.1: Segmentação do objeto de interesse: 
-O Exercício Progrma 3.1 consiste em:
-- Segmentar o objeto do fundo em 15% das imagens originais em cinza de cada classe, produzindo uma imagem binária: 0 para o fundo e 1 para o objeto, por meio de dois métodos de segemntação:
+O Exercício Programa 3.1 consiste em:
+- Segmentar o objeto do fundo em 15% das imagens originais em cinza de cada classe, produzindo uma imagem binária: 0 para o fundo e 1 para o objeto, por meio de dois métodos de segmentação:
   - Manual, para geração do ground-truth, por meio de software de segmentação (supervisely, labelstudio, etc.).
   - Automática, usando algum algoritmo de escolha livre.
-- Encontrar a Feret Box dos dois métods de segmentação;
+- Encontrar a Feret Box dos dois métodos de segmentação;
 - Classificar a segmentação de cada classe.
 
 ### EP03.2: Classificação do objeto de interesse: 
-O Exercício Progrma 3.2 consiste em:
+O Exercício Programa 3.2 consiste em:
 - Segmentar automaticamente as imagens;
 - Identificar a Feret Box na imagem segmentada;
 - Recortar a regisão de interesse na imagem em cinza com base na Feret Box;
