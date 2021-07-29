@@ -13,6 +13,7 @@ Repositório da matéria de Visão e Processamento de Imagens - USP - 2021-1
 - Link para o notebook no Google Colab do EP1: https://colab.research.google.com/drive/15zsFuqjrjg46MjU7dnI0LvtgE9ji8jzm
 - Link para o notebook no Google Colab do EP2.1: https://colab.research.google.com/drive/1h6i3BKGLtBKLcju-Sy6PT2kUJ5kvKbRv
 - Link para o notebook no Google Colab do EP2.2: https://colab.research.google.com/drive/11gNBb9oQxITN8QViUZ0b7m5CgpaJc4bv#scrollTo=Xf133sTKPpGw
+- Link para o notebook no Google Colab do EP3: https://colab.research.google.com/drive/1VAEaNfMR9VzomTrPzzwSUM5hkigSmTVr
 - Link para a pasta do Google Drive: https://drive.google.com/drive/u/0/folders/1WEzT7nZTrtw9EBntSM8hCzoGQyDAQUIw
 
 ## EP01 - Descrição
@@ -41,6 +42,7 @@ O Exercício Programa 2.2 consiste em:
   - Histograma médio de cada classe;
   - Variância do histograma de cada classe.
 
+## EP03 - Descrição
 ### EP03.1: Segmentação do objeto de interesse: 
 O Exercício Progrma 3.1 consiste em:
 - Segmentar o objeto do fundo em 15% das imagens originais em cinza de cada classe, produzindo uma imagem binária: 0 para o fundo e 1 para o objeto, por meio de dois métodos de segemntação:
